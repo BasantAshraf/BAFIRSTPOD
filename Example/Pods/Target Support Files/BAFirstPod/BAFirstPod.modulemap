@@ -1,0 +1,6 @@
+framework module BAFirstPod {
+  umbrella header "BAFirstPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

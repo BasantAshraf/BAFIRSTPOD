@@ -1,0 +1,14 @@
+PODS:
+  - BAFirstPod (0.1.0)
+
+DEPENDENCIES:
+  - BAFirstPod (from `../`)
+
+EXTERNAL SOURCES:
+  BAFirstPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BAFirstPod: 2493f55a7626871588fb7768e36958a591d78c79
+
+COCOAPODS: 0.39.0
