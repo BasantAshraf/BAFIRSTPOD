@@ -1,15 +1,14 @@
 {
   "name": "BAFirstPod",
   "version": "0.1.0",
-  "summary": "A short description of BAFirstPod.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BAFirstPod",
+  "summary": "My first cocoaPod named BAFirstPod created by Bassant Ashraf.",
+  "homepage": "https://github.com/BasantAshraf/BAFirstPod",
   "license": "MIT",
   "authors": {
     "Basant Ashraf": "bassant.ashraf@ibtikar.net.sa"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BAFirstPod.git",
+    "git": "https://github.com/BasantAshraf/BAFirstPod.git",
     "tag": "0.1.0"
   },
   "platforms": {
